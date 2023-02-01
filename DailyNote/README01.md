@@ -5,3 +5,7 @@
 >## **사용 Dependency**
 * Spring Web
 * Thymeleaf (Web Template Engine)
+___
+### 8080 Port연결 완료
+📌 localhost:8080시  
+Whitelabel Error Page 출력
